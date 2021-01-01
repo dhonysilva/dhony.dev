@@ -22,10 +22,10 @@ export default function Home({ allPostsData }) {
                 <title>{siteTitle}</title>
             </Head>
             <section className={utilStyles.headingMd}>
-                <p>Hello! I'm Dhony Silva. I'm a web developer focused on frontend. Welcome to my website.</p>
+                <p>Hello! I'm Dhony Silva from Brazil. I'm a web developer focused on frontend. Welcome to my website.</p>
                 <p>Here I document my journey.
-                    You can found more information on my{' '}
-                    <a href="https://twitter.com/dhonysilva">Twitter</a>.)
+                    You can find more information on my{' '}
+                    <a href="https://twitter.com/dhonysilva">Twitter</a>.
                 </p>
             </section>
 
